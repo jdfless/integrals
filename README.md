@@ -1,0 +1,1 @@
+An early C++ assignment that finds the area of different functions using the rectangular midpoint or trapezoid method between two given x points. The user can select either of the methods or run both of them and compare the output.
